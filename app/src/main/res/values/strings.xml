@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Compose system</string>
+    <string name="total_value_is">Total value is %s and %s</string>
+</resources>
